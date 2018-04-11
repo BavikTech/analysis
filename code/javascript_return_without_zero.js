@@ -1,7 +1,7 @@
-var data = [32, 33, 16, 40];
+var data = [0, 1, 2, 'stop', 2, 0, 1, 'stop'];
 
-function checkAdult(data) {
-    return data!= 18;
+function checkwithoutzero(data) {
+    return data!= 0 ;
 }
 
 function myFunction() {
