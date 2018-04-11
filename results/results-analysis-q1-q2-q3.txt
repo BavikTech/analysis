@@ -1,0 +1,27 @@
+Use case 1 - National Achievement Survey
+National Council of Education Research and Training conducts yearly National Achievement Survey. We have provided the data of Class VIII students from 2014. 
+
+
+Question 1. What influences students performance the most?
+
+Answer 1.   The following are the factors that affects the performance the most :
+
+		1.Father eductaion
+		2.Mother education
+		3.Father occupation
+		4.Answer english wb
+		5.Help in household
+ 
+
+Question 1. How do boys and girls perform across states?
+
+Answer 1. The boys and the girls performed as followes in different states:
+
+	   In Maths : States like uttar pradesh , dadra and nagar haveli ,daman and diu are in the top performing states and states like andhra pradesh ,pondichery in the lowest. 
+	   In science : States like uttar pradesh , dadra and nagar haveli ,daman and diu are in the top performing states and states like andhra pradesh ,pondichery,jammu&kashmir in the lowest.
+	   In Reading : States like uttar pradesh , dadra and nagar haveli ,daman and diu are in the top performing states and states like andhra pradesh ,pondichery in the lowest.
+	   In Social : States like uttar pradesh , dadra and nagar haveli ,daman and diu are in the top performing states and states like andhra pradesh ,pondichery in the lowest.
+
+Question 3. Do students from South Indian states really excel at Math and Science?
+
+Answer3.    NO,all the south states li
