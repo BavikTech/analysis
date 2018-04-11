@@ -1,4 +1,4 @@
-esUse case 1 - National Achievement Survey
+2esUse case 1 - National Achievement Survey
 National Council of Education Research and Training conducts yearly National Achievement Survey. We have provided the data of Class VIII students from 2014. 
 
 
@@ -15,7 +15,7 @@ Answer 1.   The following are the factors that affects the performance the most 
 
 Question 1. How do boys and girls perform across states?
 
-Answer 1. The boys and the girls performed as followes in different states:
+Answer 2. The boys and the girls performed as followes in different states:
 
 	   In Maths : States like uttar pradesh , dadra and nagar haveli ,daman and diu are in the top performing states and states like andhra pradesh ,pondichery in the lowest. 
 	   In science : States like uttar pradesh , dadra and nagar haveli ,daman and diu are in the top performing states and states like andhra pradesh ,pondichery,jammu&kashmir in the lowest.
