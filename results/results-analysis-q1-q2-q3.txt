@@ -1,4 +1,4 @@
-Use case 1 - National Achievement Survey
+esUse case 1 - National Achievement Survey
 National Council of Education Research and Training conducts yearly National Achievement Survey. We have provided the data of Class VIII students from 2014. 
 
 
@@ -24,4 +24,4 @@ Answer 1. The boys and the girls performed as followes in different states:
 
 Question 3. Do students from South Indian states really excel at Math and Science?
 
-Answer3.    NO,all the south states li
+Answer3.    NO,all the south states lies in the quartile q1 and q2 which are below aveage and also 66 % of south states are in the least scoring quartile 1
