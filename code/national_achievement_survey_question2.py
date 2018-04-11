@@ -75,7 +75,7 @@ for i in reading:
 	else:
 		readingnew.append(i)
 
-#finding performance of all the boys  in each subject
+#finding performance of all the boys  in each subject for each state
 def male(lst,sub):
 	stated=[]
 	sumx=0
@@ -111,7 +111,7 @@ def male(lst,sub):
 	#normed2 = [i/max(total2) for i in total2]
 	print(normed1)
 	print(stated)
-	#graph of all the boys in all subjects
+	#graph of all the boys in all subjects in each state
 	left = [1,2,3,	4,	5,	6,	7,	8,	9,	10,	11,	12,	13,	14,	15,	16,	17,	18,	19,	20,	21,	22,	23,	24,	25,	26,	27,	28,	29,	30,	31,	32,33]
 
 	font = {'family' : 'normal',
@@ -130,7 +130,7 @@ def male(lst,sub):
 	plt.axhline(y=1.0, color='green', linestyle='-')
 	plt.show()
 def female(lst,sub):
-	#finding performance of all the girls  in each subject
+	#finding performance of all the girls  in each subject in each state
 	stated=[]
 	sumx=0
 	sums=0
@@ -168,7 +168,7 @@ def female(lst,sub):
 	
 	normed1 = [(i-min(total1))/(max(total1)-min(total1)) for i in total1]
 	#print(normed1)
-	#graph of female in all subjects
+	#graph of female in all subjects for each state
 	left = [1,2,3,	4,	5,	6,	7,	8,	9,	10,	11,	12,	13,	14,	15,	16,	17,	18,	19,	20,	21,	22,	23,	24,	25,	26,	27,	28,	29,	30,	31,	32,33]
 
 	font = {'family' : 'normal',
