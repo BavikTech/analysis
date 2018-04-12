@@ -12,6 +12,7 @@ Code assignment for Gramener-product-Team-submission
 	<br />
   5. install matplot :- python -mpip install matplotlib
 	<br />
+  6. Mention the location of csv file while fetching the data using pandas in  all analytics use case questions
   
 
 ## Question 1 - Given two lists L1 = ['a', 'b', 'c'], L2 = ['b', 'd'], find common elements, find elements present in L1 and not in L2?
