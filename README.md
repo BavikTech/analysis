@@ -1,5 +1,5 @@
-# gramener-product-Team-Submission
-Code assignment for Gramener-product-Team-submission 
+
+## Code assignment 
 
 ## Installation and upgrades necessasry
   1.Upgrade Python 2.0 to Python 3.0 :- pip install python --upgrade
